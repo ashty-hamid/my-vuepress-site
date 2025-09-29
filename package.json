@@ -1,0 +1,17 @@
+{
+  "name": "ashty-hamid-cv",
+  "version": "1.0.0",
+  "description": "Ashty Hamid - Software Engineer CV",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "docs:serve": "vuepress serve docs"
+  },
+  "keywords": ["cv", "resume", "software-engineer", "vuepress"],
+  "author": "Ashty Hamid",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
